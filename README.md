@@ -1,3 +1,5 @@
-# Your blog
+# My blog
 
-This is the repository for your blog! Click *_config.yml* above to get started and fill in the details. Then click *index.md* and edit it to start creating your home page.
+This is my blog about taking the fast.ai [Practical Deep Learning for Coders](https://course.fast.ai) course.
+
+For now, I plan to post the homework and improve my european flag guesser with each completed lesson.
