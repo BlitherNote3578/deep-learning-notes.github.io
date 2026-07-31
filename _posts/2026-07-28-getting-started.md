@@ -134,7 +134,7 @@ dls.show_batch() # this will only show us the first 9 images of the batch, to no
 
 
     
-![show_batch output](../images/lesson_1/output_show_batch.png)
+![show_batch output](/deep-learning-notes.github.io/assets/images/lesson_1/output_show_batch.png)
     
 
 
@@ -209,7 +209,7 @@ image.show() # open the image first
 
 
     
-![Germany Flag](../images/country_flags/germany.jpg)
+![Germany Flag](/deep-learning-notes.github.io/assets/images/country_flags/germany.jpg)
     
 
 
@@ -249,7 +249,7 @@ image.show()
 
 
     
-![Liechtenstein Flag](../images/country_flags/liechtenstein.jpg)
+![Liechtenstein Flag](/deep-learning-notes.github.io/assets/images/country_flags/liechtenstein.jpg)
     
 
 
@@ -290,7 +290,7 @@ image.show()
 
 
     
-![San Marino Pin](../images/country_flags/san-marino.jpg)
+![San Marino Pin](/deep-learning-notes.github.io/assets/images/country_flags/san-marino.jpg)
     
 
 
@@ -331,7 +331,7 @@ image.show()
 
 
     
-![San Marino and Germany](../images/country_flags/san-marino-germany.jpg)
+![San Marino and Germany](/deep-learning-notes.github.io/assets/images/country_flags/san-marino-germany.jpg)
     
 
 
