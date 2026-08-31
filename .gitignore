@@ -7,4 +7,4 @@ _site
 .jekyll-metadata
 vendor
 _notebooks/.ipynb_checkpoints
-european_countries/
+european_countries*/
